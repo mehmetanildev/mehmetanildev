@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mehmetanil.dev</h1>
-<h3 align="center">I work as a freelancer based in Istanbul.</h3>
+<h3 align="center">based in Istanbul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetanildev&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetanildev" /> </p>
 
