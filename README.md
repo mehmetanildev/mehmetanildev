@@ -9,7 +9,7 @@
 
 - 👨‍💻 For detailed information [https://mehmetanil.dev](https://mehmetanil.dev)
 
-- 📫 How to reach me **mail@mehmetanil.dev**
+- 📫 How to reach me **info@mehmetanil.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
